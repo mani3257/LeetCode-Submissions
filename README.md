@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mani3257/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/mani3257/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mani3257/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mani3257/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
