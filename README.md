@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mani3257/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mani3257/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mani3257/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/mani3257/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mani3257/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mani3257/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mani3257/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mani3257/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/mani3257/LeetCode-Submissions/tree/master/0704-binary-search) |
@@ -131,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mani3257/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/mani3257/LeetCode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
