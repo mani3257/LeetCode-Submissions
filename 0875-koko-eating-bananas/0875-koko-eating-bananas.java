@@ -7,13 +7,13 @@ class Solution {
         }
        
         //binery search
-       int ans=max;
+       int ans=max;// maximum ele in arr that can be ans though
        int low=1;// bcz arr:1 to max
        while(low<=max){
             int mid=low+(max-low)/2;
             if(help(piles,h,mid)){
                 ans=mid;
-                max=mid-1;
+                max=mid-1;// if curr mid is max then reduce to find min ele
             }
             else low=mid+1;
        } 
@@ -21,10 +21,10 @@ class Solution {
         
         
     }
-        boolean help(int[] piles,int h,int k){
+        boolean help(int[] piles,int h,int mid){
             long totalHours=0;
             for(int i:piles){
-                totalHours+=(i+(long)k-1)/k;
+                totalHours+=(i+(long)mid-1)/mid;
 
             }
             return totalHours<=h;
