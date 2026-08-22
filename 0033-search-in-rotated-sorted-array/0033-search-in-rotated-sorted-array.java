@@ -14,7 +14,7 @@ class Solution {
             }
             else{
                 //soo, right is sorted right now check target lies in it or not
-                if(target>=nums[mid]&& target<=nums[high]){
+                if(target>nums[mid]&& target<=nums[high]){
                     low=mid+1;
                 }
                 else high=mid-1;
