@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/mani3257/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mani3257/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mani3257/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [2965-find-missing-and-repeated-values](https://github.com/mani3257/LeetCode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani3257/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/mani3257/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mani3257/LeetCode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mani3257/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/mani3257/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
