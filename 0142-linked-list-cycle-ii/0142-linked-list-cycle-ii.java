@@ -19,13 +19,13 @@ public class Solution {
             if(slow==fast) break;
         }
         if(fast==null || fast.next==null)return null;
-        slow=head;
+        fast=head;
         
         while(slow!=fast){
             slow=slow.next;
             fast=fast.next;
         }
-        return fast;
+        return slow;
         
     }
 }
