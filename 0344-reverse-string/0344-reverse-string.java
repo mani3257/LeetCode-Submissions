@@ -1,6 +1,6 @@
 class Solution {
     public void reverseString(char[] s) {
-        // use 2 pointer
+        // use 2 pointer t.c=O(n) s.c=O(1)
         int l=0,r=s.length-1;
         while(l<r){
             char t=s[l];
