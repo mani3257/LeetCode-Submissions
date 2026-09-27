@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mani3257/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/mani3257/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/mani3257/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mani3257/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mani3257/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mani3257/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mani3257/LeetCode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mani3257/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
