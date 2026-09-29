@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mani3257/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mani3257/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani3257/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mani3257/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/mani3257/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
