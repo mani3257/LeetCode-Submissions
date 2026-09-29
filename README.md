@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mani3257/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mani3257/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [2965-find-missing-and-repeated-values](https://github.com/mani3257/LeetCode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani3257/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/mani3257/LeetCode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mani3257/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mani3257/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
