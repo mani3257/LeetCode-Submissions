@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani3257/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mani3257/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mani3257/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
@@ -156,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mani3257/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani3257/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mani3257/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mani3257/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
