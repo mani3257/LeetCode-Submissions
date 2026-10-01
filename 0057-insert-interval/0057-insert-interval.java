@@ -1,25 +1,29 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        List<int[]>ls=new ArrayList<>();
+        List<int[]> ls=new ArrayList<>();
         int i=0;
         int n=intervals.length;
-        // add new interval before completly new interval (non - overlap)case
+        //before overlap
         while(i<n && intervals[i][1]<newInterval[0]){
-            ls.add(intervals[i]);
-            i++;
+            
+                ls.add(intervals[i]);
+                i++;
+            
         }
-        // overlap case
+        //overlap
         while(i<n && intervals[i][0]<=newInterval[1]){
             newInterval[0]=Math.min(intervals[i][0],newInterval[0]);
             newInterval[1]=Math.max(intervals[i][1],newInterval[1]);
             i++;
         }
         ls.add(newInterval);
-        //add remining like intervals after completly
-        while(i<n ){
+
+        //after overlap
+        while(i<n){
             ls.add(intervals[i]);
             i++;
         }
+
         return ls.toArray(new int[ls.size()][]);
     }
 }
