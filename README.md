@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mani3257/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mani3257/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mani3257/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mani3257/LeetCode-Submissions/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mani3257/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
