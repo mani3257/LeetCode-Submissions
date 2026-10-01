@@ -4,7 +4,7 @@ class Solution {
         int minOpen=0,maxOpen=0;
         for(int i=0;i<n;i++){
             char c=s.charAt(i);
-            if(c=='(') {
+            if(c=='('){
                 minOpen++;
                 maxOpen++;
             }
@@ -16,11 +16,10 @@ class Solution {
                 minOpen--;
                 maxOpen++;
             }
-        
-            if(maxOpen<0)return false;
             if(minOpen<0)minOpen=0;
+            if(maxOpen<0)return false;
+
         }
         return minOpen==0;
-        
     }
 }
