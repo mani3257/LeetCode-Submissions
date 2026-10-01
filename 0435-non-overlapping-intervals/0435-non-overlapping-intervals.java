@@ -19,7 +19,7 @@ class Solution {
                 
             }
         }
-        return cnt++;
+        return cnt;
         
     }
 }
