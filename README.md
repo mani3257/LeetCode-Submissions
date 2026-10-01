@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mani3257/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mani3257/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mani3257/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mani3257/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mani3257/LeetCode-Submissions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/mani3257/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mani3257/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mani3257/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mani3257/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/mani3257/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/mani3257/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mani3257/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mani3257/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mani3257/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
