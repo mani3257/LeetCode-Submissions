@@ -15,21 +15,26 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ls=new ArrayList<>();
+        //basically level order traversal is bredth first search(BFS)
+        List<List<Integer>>ls=new ArrayList<>();
         if(root==null)return ls;
-        Queue<TreeNode> q=new LinkedList<>();
+        Queue<TreeNode>q=new LinkedList<>();
         q.offer(root);
         while(!q.isEmpty()){
-            int s=q.size();
+            int n=q.size();
             List<Integer> level=new ArrayList<>();
-            for(int i=0;i<s;i++){
-                TreeNode cur=q.poll();
-                level.add(cur.val);
-                if(cur.left!=null) q.offer(cur.left);
-                if(cur.right!=null)q.offer(cur.right);
+            
+            for(int i=0;i<n;i++){
+                TreeNode curNode=q.poll();
+                level.add(curNode.val);
+                if(curNode.left!=null){
+                    q.offer(curNode.left);
+                }
+                if(curNode.right!=null){
+                    q.offer(curNode.right);
+                }
             }
             ls.add(level);
-
         }
         return ls;
         
