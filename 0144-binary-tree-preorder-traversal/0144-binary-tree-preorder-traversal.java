@@ -19,14 +19,14 @@ class Solution {
         if(root==null)return ls;
         Stack<TreeNode> st=new Stack<>();
         st.push(root);
-        while(!st.isEmpty()  ){
+        while(!st.isEmpty()){
             TreeNode cur=st.pop();
             ls.add(cur.val);
-            // push right first  then automatically left will process first bcs its stack nature (last in first out)
             if(cur.right!=null)st.push(cur.right);
-            if(cur.left!=null) st.push(cur.left);
+            if(cur.left!=null)st.push(cur.left);
+
+
         }
         return ls;
-        
     }
 }
