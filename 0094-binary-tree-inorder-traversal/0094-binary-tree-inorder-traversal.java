@@ -19,18 +19,16 @@ class Solution {
         if(root==null)return ls;
         Stack<TreeNode> st=new Stack<>();
         TreeNode cur=root;
-        while(!st.isEmpty() || cur!=null){
-            // traverse left most side
+        while(cur!=null || !st.isEmpty()){
             while(cur!=null){
                 st.push(cur);
                 cur=cur.left;
             }
-            // here left is over
+            // all left are over at this time
             cur=st.pop();
             ls.add(cur.val);
-            // nw add right
+            //and move right
             cur=cur.right;
-
         }
         return ls;
         
