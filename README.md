@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mani3257/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 ## Union-Find
 |  |
 | ------- |
