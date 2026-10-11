@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mani3257/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/mani3257/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
+| [1200-minimum-absolute-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/mani3257/LeetCode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mani3257/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
+| [1200-minimum-absolute-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
