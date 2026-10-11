@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mani3257/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mani3257/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mani3257/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mani3257/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mani3257/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Union-Find
 |  |
 | ------- |
