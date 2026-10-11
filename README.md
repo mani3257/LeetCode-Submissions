@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mani3257/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/mani3257/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/mani3257/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani3257/LeetCode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mani3257/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mani3257/LeetCode-Submissions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/mani3257/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
+| [0905-sort-array-by-parity](https://github.com/mani3257/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mani3257/LeetCode-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mani3257/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/mani3257/LeetCode-Submissions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/mani3257/LeetCode-Submissions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/mani3257/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
